@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	string inputvar;
-	cout << "Inserisci la formula chimica" << endl;
+	cout << "Insert the chemical formula" << endl;
 	cin >> inputvar;
 	cout << getmolarmass(inputvar) << endl;
 	system("pause");
