@@ -6,7 +6,7 @@ A simple to use c++ library focalized at chemisty exercises
 
 
 
-# How to compile your own program (you have to write your program into `main.cpp`:
+# How to compile your own program (you have to write your program into `main.cpp`):
 
 Prerequisites: have g++ installed and in your system path
 
