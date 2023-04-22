@@ -1,12 +1,12 @@
 # chemistry-library
 A simple to use c++ library focalized at chemisty exercises
 
-## Current features (the library is currently in early development):
+# Current features (the library is currently in early development):
 - Molar mass calculator
 
 
 
-## How to compile your own program (you have to write your program into `main.cpp`:
+# How to compile your own program (you have to write your program into `main.cpp`:
 
 Prerequisites: have g++ installed and in your system path
 
