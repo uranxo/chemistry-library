@@ -11,7 +11,8 @@ A simple to use c++ library focalized at chemisty exercises
 Prerequisites: have g++ installed and in your system path
 
 - Open a cmd in the folder
-- Create your `main.cpp` output: ```
+- Create your `main.cpp` output:
+```
 g++ -c main.cpp -o main.o
 ```
 - Create `molarmass.cpp` output: `g++ -c molarmass.cpp -o molarmass.o`
