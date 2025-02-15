@@ -11,4 +11,7 @@ If you want to include all the features:
 ```
 g++ example.cpp chemlib.cpp -o myprogram
 ```
-
+If you want only a specified feature (it is explained better in `example.cpp`):
+```
+g++ example.cpp include/molarmass.cpp -o myprogram
+```
