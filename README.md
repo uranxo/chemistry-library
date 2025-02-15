@@ -7,9 +7,6 @@ A simple to use c++ library focalized at chemisty exercises
 
 
 # How to compile your own program:
-
-Prerequisites: have g++ installed and in your system path
-
 If you want to include all the features:
 ```
 g++ example.cpp chemlib.cpp -o myprogram
